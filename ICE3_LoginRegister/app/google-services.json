@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1972829592",
+    "project_id": "loginapp-7fe6c",
+    "storage_bucket": "loginapp-7fe6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1972829592:android:43af4b435576b0821e3fed",
+        "android_client_info": {
+          "package_name": "com.example.ice3_loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00TBbbw-I58LHQEWP9PoDqOc0Qcb4neU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

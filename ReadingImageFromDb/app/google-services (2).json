@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134458556427",
+    "project_id": "getimages-f0d99",
+    "storage_bucket": "getimages-f0d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134458556427:android:e5d7bd51e54a601e70c70e",
+        "android_client_info": {
+          "package_name": "com.example.readingimagefromdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDswxtv2caLdHHffJ47rvRTF4-aXkLZ2IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geo_Weather_LU2</string>
+    <string name="tab_text_1">TODAY</string>
+    <string name="tab_text_2">5-DAY FORECAST</string>
+    <string name="tab_text_3">CITY WEATHER</string>
+    <string name="logo">Logo</string>
+</resources>

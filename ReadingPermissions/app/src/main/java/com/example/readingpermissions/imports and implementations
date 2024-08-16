@@ -1,0 +1,17 @@
+imports:
+import androidx.activity.compose.rememberPermissionState
+import android.Manifest
+
+implementations:
+    implementation("com.google.accompanist:accompanist-permissions:0.30.0")
+
+
+Manifest:
+<uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+
+provider:
+in the meta-data name: androidx.core.FILE_PROVIDER_PATHS
